@@ -1,57 +1,66 @@
-<!-- Banner Image -->
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40)
+<!-- Banner Header -->
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=220&section=header&text=Hi%20there,%20I'm%20M%20S%20Khan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
-# 👋 Hi, I'm M S Khan
-### 🚀 Year 8 Student.
+<div align="center">
+
+### 🚀 Year 8 Student & Aspiring Web Developer
+**Building modern, scalable applications and staying ahead through code.**
+
+[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1449878773074759781)
+[![Replit Profile](https://img.shields.io/badge/Replit-Profile-F26522?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@howlow3)
+[![Email](https://img.shields.io/badge/Email-Direct-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect.mskhan@gmail.com)
+
+</div>
 
 ---
 
 ## 🙋‍♂️ About Me
-I am a 13 y/o passionate student learning web development and focused on trying to building modern, scalable, and user-friendly applications. I love solving problems through code and constantly learning new tools and technologies and always to try and stay ahead.
+
+- 🎓 **Student:** 13-year-old Year 8 student based in **London, UK** 🇬🇧
+- 💻 **Passionate Coder:** Self-taught developer building web apps and experimenting with new tech.
+- 🚀 **Goals:** Continuously learning modern frameworks to build fast, user-friendly software.
+- ⚡ **Fun Fact:** I host and experiment with a lot of my projects on [Replit](https://replit.com/@howlow3)!
 
 ---
 
-## ⚡ Current Activities
-- 🌱 I’m currently learning and exploring **Next.js & TypeScript**
-- 💬 Ask me about **React, JavaScript, and Web Development**
+## ⚡ Current Focus & Learning
+
+- 🔭 **Working on:** Responsive web projects and backend integrations.
+- 🌱 **Learning:** Deepening my knowledge in **Next.js**, **TypeScript**, and full-stack development.
+- 💬 **Ask me about:** HTML, CSS, JavaScript, React, and hosting projects.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack & Skills
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mskhanda&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mskhanda&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mskhanda&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mskhanda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your-GitHub-Username]&theme=radial" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mskhanda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📬 Connect with Me
+## 📬 Contact & Location
 
 📍 **Location:** London, UK  
-📧 **Email:** [connect.mskhan@gmail.com](connect.mskhan@gmail.com)
-
-<p align="left">
-  <a href="https://discord.com/users/1449878773074759781" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
+📧 **Email:** [connect.mskhan@gmail.com](mailto:connect.mskhan@gmail.com)  
+💬 **Discord:** [Connect on Discord](https://discord.com/users/1449878773074759781)
