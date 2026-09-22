@@ -1,10 +1,14 @@
 <!-- Banner Header -->
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=220&section=header&text=Hi%20there,%20I'm%20M%20S%20Khan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
-<div align="center">
+<!-- Animated Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&pause=1000&color=2B90FF&center=true&vCenter=true&width=550&lines=Year+8+Student+%26+Aspiring+Developer;Passionate+Web+Developer;Exploring+Next.js+%26+TypeScript;Building+Cool+Projects+on+Replit" alt="Typing SVG" />
+  </a>
+</p>
 
-### 🚀 Year 8 Student & Aspiring Web Developer
-**Building modern, scalable applications and staying ahead through code.**
+<div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1449878773074759781)
 [![Replit Profile](https://img.shields.io/badge/Replit-Profile-F26522?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@howlow3)
