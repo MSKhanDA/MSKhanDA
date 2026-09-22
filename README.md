@@ -1,20 +1,18 @@
 <!-- Banner Image -->
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40)
 
-# 👋 Hi, I'm [Your Name]
-### 🚀 [Your Designation / e.g., Full-Stack Web Developer]
+# 👋 Hi, I'm M S Khan
+### 🚀 Year 8 Student.
 
 ---
 
 ## 🙋‍♂️ About Me
-I am a passionate web developer focused on building modern, scalable, and user-friendly applications. I love solving problems through code and constantly learning new tools and technologies.
+I am a 13 y/o passionate student learning web development and focused on trying to building modern, scalable, and user-friendly applications. I love solving problems through code and constantly learning new tools and technologies and always to try and stay ahead.
 
 ---
 
 ## ⚡ Current Activities
-- 🔭 I’m currently working on a **Tourism & Travel Management System**
 - 🌱 I’m currently learning and exploring **Next.js & TypeScript**
-- 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, JavaScript, and Web Development**
 
 ---
@@ -50,16 +48,10 @@ I am a passionate web developer focused on building modern, scalable, and user-f
 ## 📬 Connect with Me
 
 📍 **Location:** London, UK  
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+📧 **Email:** [connect.mskhan@gmail.com](connect.mskhan@gmail.com)
 
 <p align="left">
-  <a href="https://linkedin.com/in/[your-linkedin]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://facebook.com/[your-facebook]" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://twitter.com/[your-twitter]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://discord.com/users/1449878773074759781" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
