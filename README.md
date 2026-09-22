@@ -35,10 +35,13 @@ I am a 13 y/o passionate student learning web development and focused on trying 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mskhanda&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mskhanda&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mskhanda&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mskhanda&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  </a>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your-GitHub-Username]&theme=radial" alt="GitHub Streak" />
 </p>
